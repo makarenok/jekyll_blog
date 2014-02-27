@@ -1,0 +1,7 @@
+# GitHub Defaults
+lsi: false
+pygments: true
+safe: true
+encoding: UTF-8
+# UTF-8 & parse errors fix
+markdown: redcarpet
